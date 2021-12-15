@@ -321,10 +321,13 @@ background-color: #fff;
     align-items: center;
     justify-content: center;
     /* margin: 0 auto; */
+    /* margin-left: 470px; */
+    padding: 0px 0px 10px;
     margin-left: 470px;
 }
 .upcoming-header{
     text-align: center;
+
 }
 .upcoming-header-text{
     font-family: Roboto;
@@ -335,7 +338,7 @@ background-color: #fff;
     text-align: center;
     letter-spacing: -0.4;
     /* margin-bottom: 25px; */
-    padding-top: 108px;
+    /* padding-top: 108px; */
 }
 .paragrapgh-of-upcoming{
     font-family: Roboto;
@@ -397,4 +400,131 @@ margin: 0px 27px 26px 31px;
     text-decoration: none;
     color: #717CFF;
     font-weight: 700;
+}
+.item-subjects-disney{
+    width: 348px;
+    height: 354px;
+    background-color: #fafafa;
+    /* box-shadow: 0px 4px 77px rgba(0, 0, 0.8, 0.06); */
+    border-radius: 15px;
+    margin-bottom: 50px;
+    /* padding: 30px; */
+    text-decoration: none;
+    flex-direction: column;
+    list-style-type: none;
+    /* border: none; */
+}
+.country-section{
+    background-color: #fafafa;
+}
+.item-subject-text-disney{
+    align-items: center;
+    font-style: normal;
+    margin: 27px 0px 11px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #37474F;
+}
+.paragraph-ofaustralia{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+}
+.par-of-list-new{
+    margin: 0px 27px 26px 31px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 31px;
+    color:#6e6e6e ;
+}.testimonals{
+    background-color: #FFFFFF ;
+}
+.pre-footer-main{
+    display: flex;
+    gap: 392px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.pre-footer{
+    background-color: #fafafa;
+}
+.pre-footer-h1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 43px;
+}
+.footer-btn{
+    margin-top: 82px;
+}
+footer{
+    background-color: #717CFF;
+    display: flex;
+}
+.footer-right-site{
+    flex-direction: column;
+    /* justify-content: space-around; */
+    padding-top: 64px;
+    
+}
+.logo-footer{
+    margin-bottom: 26px;
+
+}
+.footer-parag{
+    margin-bottom: 58px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #EEEEEE;
+}
+.eng-tag{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 32px;
+    /* identical to box height, or 178% */
+
+
+    color: #EEEEEE;
+}
+.ul-of-footer{
+    flex-direction: column;
+    text-decoration: none;
+    list-style-type: none;
+    color: #FFFFFF;
+}
+.main-footer-body{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-lisst-item-o{
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 49px;
+color: #EEEEEE;
+margin: 70px 86px 80px 0;
+}
+.bottom{
+    margin-top: 236px;
+}
+
+.bottom > .social-logos > img{
+    fill: #FFFFFF;
+    
 }
