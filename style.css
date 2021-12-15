@@ -21,6 +21,9 @@
     align-items: center;
     
 }
+.header-list-item{
+    /* text-emphasis-style: bold; */
+}
 .header-list a{
     text-decoration: none;
     color: black;
